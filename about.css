@@ -1,4 +1,13 @@
 .para1{
 	border: 2px solid black;
+	transform: tranformY(180);
+	background-color: rgb(204, 230, 255);
+	bottom:50;
+	text-align: center;
+}
+.image{
+	height:100px
+	width: 100px
+	padding: 5px;
 
 }
